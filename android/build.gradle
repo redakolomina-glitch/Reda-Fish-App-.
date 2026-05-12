@@ -1,6 +1,0 @@
-package com.example.reda_fish_app // استبدله بـ Package Name الخاص بك
-
-import io.flutter.embedding.android.FlutterActivity
-
-class MainActivity: FlutterActivity() {
-}
